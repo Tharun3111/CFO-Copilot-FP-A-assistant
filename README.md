@@ -6,7 +6,7 @@
 
 A rule-based AI assistant that answers finance questions directly from structured CSV/Excel data using natural language queries.
 
-🚀 **[Live Demo](https://your-app-url.streamlit.app)** | 📂 **[GitHub](https://github.com/Tharun3111/CFO-Copilot-FP-A-assistant)**
+🚀 **[Live Demo]((https://cfo-copilot-fp-a-assistant.streamlit.app/))** | 📂 **[GitHub](https://github.com/Tharun3111/CFO-Copilot-FP-A-assistant)**
 
 ---
 
@@ -62,3 +62,4 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+
