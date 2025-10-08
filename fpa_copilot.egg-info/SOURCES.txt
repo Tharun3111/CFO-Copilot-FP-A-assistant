@@ -1,0 +1,11 @@
+README.md
+setup.py
+agent/__init__.py
+agent/intents.py
+agent/tools.py
+fpa_copilot.egg-info/PKG-INFO
+fpa_copilot.egg-info/SOURCES.txt
+fpa_copilot.egg-info/dependency_links.txt
+fpa_copilot.egg-info/requires.txt
+fpa_copilot.egg-info/top_level.txt
+tests/test_metrics.py
