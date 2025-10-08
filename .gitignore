@@ -28,3 +28,5 @@ Thumbs.db
 
 # Pytest
 .pytest_cache/
+
+# Allow fixture data for demo
