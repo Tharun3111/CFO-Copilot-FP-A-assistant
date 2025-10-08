@@ -30,8 +30,6 @@ Try asking questions like:
 - "Show Gross Margin % trend for the last 3 months"
 - "Break down Opex by category for June 2025"
 - "What is our cash runway right now?"
-- "What was EMEA's revenue in Q2 2024?"
-- "Show ParentCo's expenses for 2023"
 
 ---
 
@@ -62,6 +60,7 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+
 
 
 
